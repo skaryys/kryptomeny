@@ -6,11 +6,11 @@ Bitcoiny lze koupit v různých internetových směnárnách, nebo ve fyzických
 
 **Aktuální kurz Bitcoin/USD:**
 
-<iframe src="https://test.skaramart.in/usd.html" width="330" height="350" frameBorder="0"></iframe>
+<iframe src="//test.skaramart.in/usd.html" width="330" height="350" frameBorder="0"></iframe>
 
 **Aktuální kurz Bitcoin/CZK:**
 
-<iframe src="https://test.skaramart.in" width="330" height="350" frameBorder="0"></iframe>
+<iframe src="//test.skaramart.in" width="330" height="350" frameBorder="0"></iframe>
 
 ## Kde platit Bitcoinem
 
@@ -18,6 +18,6 @@ Díky neustále rostoucí popularitě kryptoměn se dočkáváme možnosti plati
 
 Mapu všech míst s podporou plateb pomocí Bitcoinů lze nalézt například na webu CoinMap.org:
 
-<iframe src="https://coinmap.org/#/map/50.01656413/14.44702148/9" width="100%" height="700" frameBorder="0"></iframe>
+<iframe src="//coinmap.org/#/map/50.01656413/14.44702148/9" width="100%" height="700" frameBorder="0"></iframe>
 
 Pokud aktuální obchod platbu Bitcoinem nepodporuje, je zde vždy možnost vybrat si z Bitcoinového bankomatu běžně používané peníze, nebo zaplatit přes internet po převedení z Bitcoinu na Koruny. Většinu bankomatů na Bitcoiny poskytuje do prodejen společnost General Bytes. O Internetovou platební bránu se v Česku zajímá společnost BitcoinPay.
