@@ -1,2 +1,6 @@
 # kryptomeny
-Vuepress school project
+
+```
+yarn
+yarn docs:dev
+```
