@@ -6,11 +6,11 @@ Bitcoiny lze koupit v různých internetových směnárnách, nebo ve fyzických
 
 **Aktuální kurz Bitcoin/USD:**
 
-<iframe src="http://test.skaramart.in/usd.html" width="330" height="350" frameBorder="0"></iframe>
+<iframe src="https://test.skaramart.in/usd.html" width="330" height="350" frameBorder="0"></iframe>
 
 **Aktuální kurz Bitcoin/CZK:**
 
-<iframe src="http://test.skaramart.in" width="330" height="350" frameBorder="0"></iframe>
+<iframe src="https://test.skaramart.in" width="330" height="350" frameBorder="0"></iframe>
 
 ## Kde platit Bitcoinem
 
